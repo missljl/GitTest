@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 @property (nonatomic,copy) NSString *titleName;
-
+@property (nonatomic,strong) UIImageView *imageView8;
 @end
 
