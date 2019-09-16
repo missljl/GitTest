@@ -10,6 +10,7 @@
 
 @interface FirstViewController ()
 @property(nonatomic,strong) UIImageView *imageV;
+@property (nonatomic,strong) UIImageView *imageView1;
 @end
 
 @implementation FirstViewController

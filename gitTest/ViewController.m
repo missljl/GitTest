@@ -12,6 +12,7 @@
 @property (nonatomic,copy) NSString *appName;
 @property (nonatomic,strong) UIImageView *imageView;
 @property (nonatomic,strong) UIImageView *imageView1;
+@property (nonatomic,strong) UIImageView *imageView2;
 @end
 
 @implementation ViewController
